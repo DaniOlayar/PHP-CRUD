@@ -89,8 +89,8 @@
 
     <br>
 
-    <div class="mx-auto" style="width: 200px;">
-      <a href="FormRegistrar.php" type="button" class="btn btn-primary text-center" style=" display: flex; justify-content: center;">Registrar</a>
+    <div class="mx-auto" style="text-align: center">
+      <a href="FormRegistrar.php" type="button" class="btn btn-primary text-center" style="width: 150px; justify-content: center;">Registrar</a>
     </div>
     
     <!-- Optional JavaScript -->
